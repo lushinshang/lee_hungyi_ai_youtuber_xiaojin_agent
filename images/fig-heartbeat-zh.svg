@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" role="img" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif">
+<title>心跳與排程的時間軸</title>
+<desc>上方是心跳，每隔 30 分鐘 Harness 送一段文字給模型，要它照 HEARTBEAT.md 做事；下方是排程，到指定的時間（例如每天中午十二點）才送出指令，內容是做一部影片。</desc>
+<rect width="800" height="330" fill="#f9f7f4"/>
+<text x="24" y="40" font-size="20" fill="#c2412f" text-anchor="start" font-weight="700">心跳：固定間隔</text>
+<line x1="60" y1="110" x2="760" y2="110" stroke="#d8d2c8" stroke-width="3"/>
+<circle cx="100" cy="110" r="9" fill="#c2412f"/><text x="100" y="142" font-size="17" fill="#5c5650" text-anchor="middle" font-weight="400">0:00</text>
+<circle cx="280" cy="110" r="9" fill="#c2412f"/><text x="280" y="142" font-size="17" fill="#5c5650" text-anchor="middle" font-weight="400">0:30</text>
+<circle cx="460" cy="110" r="9" fill="#c2412f"/><text x="460" y="142" font-size="17" fill="#5c5650" text-anchor="middle" font-weight="400">1:00</text>
+<circle cx="640" cy="110" r="9" fill="#c2412f"/><text x="640" y="142" font-size="17" fill="#5c5650" text-anchor="middle" font-weight="400">1:30</text>
+<text x="400" y="76" font-size="18" fill="#1a1a1a" text-anchor="middle" font-weight="400">每 30 分鐘戳一下，照 HEARTBEAT.md 做事</text>
+<text x="24" y="200" font-size="20" fill="#2f6f73" text-anchor="start" font-weight="700">排程（cron）：指定時間</text>
+<line x1="60" y1="270" x2="760" y2="270" stroke="#d8d2c8" stroke-width="3"/>
+<rect x="451" y="261" width="18" height="18" fill="#2f6f73" transform="rotate(45 460 270)"/>
+<text x="460" y="304" font-size="17" fill="#5c5650" text-anchor="middle" font-weight="400">12:00</text>
+<text x="460" y="236" font-size="18" fill="#1a1a1a" text-anchor="middle" font-weight="400">每天中午做一部影片</text>
+</svg>

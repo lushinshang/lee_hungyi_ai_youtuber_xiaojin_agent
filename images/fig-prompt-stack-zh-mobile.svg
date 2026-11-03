@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 760" role="img" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif">
+<title>每次送給語言模型的內容</title>
+<desc>由上而下堆疊：最上面是每次都附上的 system prompt，裡面有設定檔、工具清單與指令格式、memory.md 的內容與 skill 清單；接著是全部歷史紀錄（含工具執行結果）；最後才是你這次說的話；整串交給語言模型接龍出下一步。</desc>
+<rect width="480" height="760" fill="#f9f7f4"/>
+<text font-size="26" fill="#1a1a1a" font-weight="700"><tspan x="20" y="40">每次送給語言模型的內容</tspan><tspan x="20" y="72">（串成一整段）</tspan></text>
+<rect x="14" y="92" width="452" height="330" rx="10" fill="#efe9de" stroke="#c2412f" stroke-width="2"/>
+<text font-size="24" fill="#c2412f" font-weight="700"><tspan x="28" y="128">system prompt：</tspan><tspan x="28" y="158">每次都放在最前面</tspan></text>
+<rect x="28" y="176" width="424" height="48" rx="6" fill="#fff" stroke="#d8d2c8"/><text x="40" y="208" font-size="20" fill="#1a1a1a" text-anchor="start" font-weight="400">設定檔（soul、identity、user）</text>
+<rect x="28" y="236" width="424" height="48" rx="6" fill="#fff" stroke="#d8d2c8"/><text x="40" y="268" font-size="22" fill="#1a1a1a" text-anchor="start" font-weight="400">工具清單與指令格式</text>
+<rect x="28" y="296" width="424" height="48" rx="6" fill="#fff" stroke="#d8d2c8"/><text x="40" y="328" font-size="20" fill="#1a1a1a" text-anchor="start" font-weight="400">memory.md 的內容</text>
+<rect x="28" y="356" width="424" height="48" rx="6" fill="#fff" stroke="#d8d2c8"/><text x="40" y="388" font-size="22" fill="#1a1a1a" text-anchor="start" font-weight="400">skill 清單</text>
+<rect x="14" y="440" width="452" height="76" rx="10" fill="#fff" stroke="#d8d2c8" stroke-width="2"/><text font-size="22" fill="#1a1a1a" font-weight="400"><tspan x="28" y="466">全部歷史紀錄</tspan><tspan x="28" y="498">（含工具執行結果）</tspan></text>
+<rect x="14" y="532" width="452" height="62" rx="10" fill="#fff" stroke="#2f6f73" stroke-width="2"/><text x="28" y="572" font-size="24" fill="#2f6f73" text-anchor="start" font-weight="700">你這次說的話</text>
+<path d="M240 604 L240 650" stroke="#1a1a1a" stroke-width="3"/><path d="M230 642 L240 662 L250 642" fill="#1a1a1a"/>
+<text x="240" y="706" font-size="24" fill="#1a1a1a" text-anchor="middle" font-weight="700">語言模型：接龍出下一步</text>
+</svg>

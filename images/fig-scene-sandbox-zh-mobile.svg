@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 680" role="img" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif">
+<title>在沙盒裡工作</title>
+<desc>示意圖：龍蝦造型的小機器人在一個透明的玻璃盒子（沙盒）裡操作筆電，盒子外有一把鎖，代表權限由人決定，出錯也不會波及外面。</desc>
+<rect width="480" height="680" fill="#f9f7f4"/>
+<text x="240" y="44" font-size="26" fill="#2f6f73" text-anchor="middle" font-weight="700">沙盒：出錯不波及外面</text>
+<rect x="30" y="70" width="420" height="300" rx="22" fill="#2f6f73" fill-opacity=".08" stroke="#2f6f73" stroke-width="4"/>
+<g transform="translate(130 230) scale(1.0 1.0)"><path d="M-14 -54 Q-30 -92 -48 -86 M14 -54 Q30 -92 48 -86" stroke="#c2412f" stroke-width="4" fill="none" stroke-linecap="round"/><ellipse cx="0" cy="36" rx="34" ry="30" fill="#c2412f"/><circle cx="-50" cy="34" r="13" fill="#a8341f"/><circle cx="50" cy="34" r="13" fill="#a8341f"/><rect x="-38" y="-58" width="76" height="64" rx="26" fill="#c2412f"/><rect x="-28" y="-46" width="56" height="36" rx="15" fill="#2b2a28"/><circle cx="-12" cy="-28" r="5" fill="#ffd9a0"/><circle cx="12" cy="-28" r="5" fill="#ffd9a0"/></g>
+<rect x="240" y="190" width="170" height="105" rx="8" fill="#e9e4da" stroke="#2b2a28" stroke-width="3"/><rect x="254" y="220" width="143" height="21" rx="5" fill="#fff" stroke="#d8d2c8"/><rect x="254" y="220" width="57" height="21" rx="5" fill="#c2412f"/><rect x="228" y="295" width="194" height="10" rx="5" fill="#2b2a28"/>
+<rect x="225" y="330" width="200" height="8" rx="4" fill="#d8d2c8"/>
+<g transform="translate(240 470) scale(1.6)"><path d="M-20 -6 L-20 -30 A20 20 0 0 1 20 -30 L20 -6" stroke="#2b2a28" stroke-width="8" fill="none"/><rect x="-34" y="-8" width="68" height="52" rx="8" fill="#c2412f"/><circle cx="0" cy="14" r="7" fill="#ffd9a0"/></g>
+<text x="240" y="600" font-size="26" fill="#1a1a1a" text-anchor="middle" font-weight="700">權限由你決定</text>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 532" role="img" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif">
+<title>小金每天的工作流程</title>
+<desc>由上而下五步：每天中午提一個影片構想；講者給一點建議；小金自己找資料、寫講稿、語音合成配音、做影片；先傳給講者看；講者說可以，才上傳 YouTube。</desc>
+<rect width="800" height="532" fill="#f9f7f4"/>
+<rect x="120" y="20" width="560" height="84" rx="10" fill="#fff" stroke="#c2412f" stroke-width="2"/><text font-size="20" fill="#1a1a1a" font-weight="400"><tspan text-anchor="middle" x="400.0" y="55.0">每天中午</tspan><tspan text-anchor="middle" x="400.0" y="83.0">提一個影片構想</tspan></text>
+<path d="M400 104 L400 126" stroke="#1a1a1a" stroke-width="3"/><path d="M392 120 L400 134 L408 120" fill="#1a1a1a"/>
+<rect x="120" y="134" width="560" height="60" rx="10" fill="#fff" stroke="#2f6f73" stroke-width="2"/><text font-size="20" fill="#1a1a1a" font-weight="400"><tspan text-anchor="middle" x="400.0" y="171.0">你給一點建議</tspan></text>
+<path d="M400 194 L400 216" stroke="#1a1a1a" stroke-width="3"/><path d="M392 210 L400 224 L408 210" fill="#1a1a1a"/>
+<rect x="120" y="224" width="560" height="84" rx="10" fill="#fff" stroke="#c2412f" stroke-width="2"/><text font-size="20" fill="#1a1a1a" font-weight="400"><tspan text-anchor="middle" x="400.0" y="259.0">自己找資料、寫講稿、</tspan><tspan text-anchor="middle" x="400.0" y="287.0">語音合成配音、做影片</tspan></text>
+<path d="M400 308 L400 330" stroke="#1a1a1a" stroke-width="3"/><path d="M392 324 L400 338 L408 324" fill="#1a1a1a"/>
+<rect x="120" y="338" width="560" height="60" rx="10" fill="#fff" stroke="#2f6f73" stroke-width="2"/><text font-size="20" fill="#1a1a1a" font-weight="400"><tspan text-anchor="middle" x="400.0" y="375.0">先傳給你看</tspan></text>
+<path d="M400 398 L400 420" stroke="#1a1a1a" stroke-width="3"/><path d="M392 414 L400 428 L408 414" fill="#1a1a1a"/>
+<rect x="120" y="428" width="560" height="84" rx="10" fill="#fff" stroke="#2f6f73" stroke-width="2"/><text font-size="20" fill="#1a1a1a" font-weight="700"><tspan text-anchor="middle" x="400.0" y="463.0">你說可以，</tspan><tspan text-anchor="middle" x="400.0" y="491.0">才上傳 YouTube</tspan></text>
+</svg>

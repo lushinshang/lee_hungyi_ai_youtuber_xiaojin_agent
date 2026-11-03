@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif">
+<title>每次送給語言模型的內容</title>
+<desc>由上而下堆疊：最上面是每次都附上的 system prompt，裡面有設定檔、工具清單與指令格式、memory.md 的內容與 skill 清單；接著是全部歷史紀錄（含工具執行結果）；最後才是你這次說的話；整串交給語言模型接龍出下一步。</desc>
+<rect width="800" height="520" fill="#f9f7f4"/>
+<text x="24" y="38" font-size="20" fill="#1a1a1a" text-anchor="start" font-weight="700">每次送給語言模型的內容（串成一整段）</text>
+<rect x="40" y="60" width="720" height="236" rx="10" fill="#efe9de" stroke="#c2412f" stroke-width="2"/>
+<text x="60" y="92" font-size="19" fill="#c2412f" text-anchor="start" font-weight="700">system prompt：每次都放在最前面</text>
+<rect x="64" y="110" width="672" height="36" rx="6" fill="#fff" stroke="#d8d2c8"/><text x="84" y="135" font-size="18" fill="#1a1a1a" text-anchor="start" font-weight="400">設定檔（soul、identity、user）</text>
+<rect x="64" y="154" width="672" height="36" rx="6" fill="#fff" stroke="#d8d2c8"/><text x="84" y="179" font-size="18" fill="#1a1a1a" text-anchor="start" font-weight="400">工具清單與指令格式</text>
+<rect x="64" y="198" width="672" height="36" rx="6" fill="#fff" stroke="#d8d2c8"/><text x="84" y="223" font-size="18" fill="#1a1a1a" text-anchor="start" font-weight="400">memory.md 的內容</text>
+<rect x="64" y="242" width="672" height="36" rx="6" fill="#fff" stroke="#d8d2c8"/><text x="84" y="267" font-size="18" fill="#1a1a1a" text-anchor="start" font-weight="400">skill 清單</text>
+<rect x="40" y="312" width="720" height="62" rx="10" fill="#fff" stroke="#d8d2c8" stroke-width="2"/><text x="60" y="350" font-size="19" fill="#1a1a1a" text-anchor="start" font-weight="400">全部歷史紀錄（含工具執行結果）</text>
+<rect x="40" y="390" width="720" height="62" rx="10" fill="#fff" stroke="#2f6f73" stroke-width="2"/><text x="60" y="428" font-size="19" fill="#2f6f73" text-anchor="start" font-weight="700">你這次說的話</text>
+<path d="M400 460 L400 484" stroke="#1a1a1a" stroke-width="3"/><path d="M392 478 L400 490 L408 478" fill="#1a1a1a"/>
+<text x="400" y="512" font-size="19" fill="#1a1a1a" text-anchor="middle" font-weight="700">語言模型：接龍出下一步</text>
+</svg>

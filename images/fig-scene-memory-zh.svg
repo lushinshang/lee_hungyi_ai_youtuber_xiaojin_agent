@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" role="img" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif">
+<title>每次對話從零開始，靠檔案記憶接續</title>
+<desc>示意圖：一排空白的日曆頁代表每次對話都從零開始；攤開的筆記本與正在閱讀它的龍蝦造型小機器人，代表靠寫進檔案的記憶接續。</desc>
+<rect width="800" height="380" fill="#f9f7f4"/>
+<text x="150" y="52" font-size="20" fill="#1a1a1a" text-anchor="middle" font-weight="700">每次對話都從零開始</text>
+<rect x="30" y="80" width="70" height="84" rx="6" fill="#fff" stroke="#d8d2c8" stroke-width="2"/><rect x="30" y="80" width="70" height="18" rx="6" fill="#c2412f"/>
+<rect x="112" y="80" width="70" height="84" rx="6" fill="#fff" stroke="#d8d2c8" stroke-width="2"/><rect x="112" y="80" width="70" height="18" rx="6" fill="#c2412f"/>
+<rect x="194" y="80" width="70" height="84" rx="6" fill="#fff" stroke="#d8d2c8" stroke-width="2"/><rect x="194" y="80" width="70" height="18" rx="6" fill="#c2412f"/>
+<text x="560" y="52" font-size="20" fill="#2f6f73" text-anchor="middle" font-weight="700">靠寫進檔案的記憶接續</text>
+<rect x="430" y="180" width="95" height="120" rx="8" fill="#fff" stroke="#2b2a28" stroke-width="3"/><rect x="525" y="180" width="95" height="120" rx="8" fill="#fff" stroke="#2b2a28" stroke-width="3"/><line x1="444" y1="204" x2="513" y2="204" stroke="#d8d2c8" stroke-width="3"/><line x1="537" y1="204" x2="606" y2="204" stroke="#d8d2c8" stroke-width="3"/><line x1="444" y1="224" x2="513" y2="224" stroke="#d8d2c8" stroke-width="3"/><line x1="537" y1="224" x2="606" y2="224" stroke="#d8d2c8" stroke-width="3"/><line x1="444" y1="244" x2="513" y2="244" stroke="#d8d2c8" stroke-width="3"/><line x1="537" y1="244" x2="606" y2="244" stroke="#d8d2c8" stroke-width="3"/><line x1="444" y1="264" x2="513" y2="264" stroke="#d8d2c8" stroke-width="3"/><line x1="537" y1="264" x2="606" y2="264" stroke="#d8d2c8" stroke-width="3"/>
+<g transform="translate(700 244) scale(0.95 0.95)"><path d="M-14 -54 Q-30 -92 -48 -86 M14 -54 Q30 -92 48 -86" stroke="#c2412f" stroke-width="4" fill="none" stroke-linecap="round"/><ellipse cx="0" cy="36" rx="34" ry="30" fill="#c2412f"/><circle cx="-50" cy="34" r="13" fill="#a8341f"/><circle cx="50" cy="34" r="13" fill="#a8341f"/><rect x="-38" y="-58" width="76" height="64" rx="26" fill="#c2412f"/><rect x="-28" y="-46" width="56" height="36" rx="15" fill="#2b2a28"/><circle cx="-12" cy="-28" r="5" fill="#ffd9a0"/><circle cx="12" cy="-28" r="5" fill="#ffd9a0"/></g>
+</svg>

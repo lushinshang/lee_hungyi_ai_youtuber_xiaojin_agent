@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 520" role="img" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif">
+<title>AI 自己想題目的比例</title>
+<desc>長條圖：全部投稿中有 34.9% 的論文題目幾乎由 AI 自己想；被接受的論文中比例降到 27.7%。數字為作者自陳，資料出自 Agents4Science 主辦方論文 Figure 1c。</desc>
+<rect width="480" height="520" fill="#f9f7f4"/>
+<text font-size="26" fill="#1a1a1a" font-weight="700"><tspan x="20" y="44">題目幾乎由 AI </tspan><tspan x="20" y="78">自己想的比例（作者自陳）</tspan></text>
+<text x="20" y="140" font-size="24" fill="#1a1a1a" text-anchor="start" font-weight="400">全部投稿</text>
+<rect x="20" y="156" width="321.1" height="56" rx="4" fill="#c2412f"/>
+<text x="353.08" y="196" font-size="26" fill="#1a1a1a" text-anchor="start" font-weight="700">34.9%</text>
+<text x="20" y="290" font-size="24" fill="#1a1a1a" text-anchor="start" font-weight="400">被接受的論文</text>
+<rect x="20" y="306" width="254.8" height="56" rx="4" fill="#2f6f73"/>
+<text x="286.84" y="346" font-size="26" fill="#1a1a1a" text-anchor="start" font-weight="700">27.7%</text>
+<text font-size="20" fill="#5c5650" font-weight="400"><tspan x="20" y="460">資料：Agents4Science </tspan><tspan x="20" y="488">主辦方論文 Figure 1c</tspan></text>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" role="img" font-family="'PingFang TC','Noto Sans TC','Microsoft JhengHei',sans-serif">
+<title>語言模型是關在小房間裡的人</title>
+<desc>Harness 把一張寫了半句話的紙條遞進小房間，房裡的語言模型沒有書也沒有窗，只負責把紙條寫完，再遞出來。</desc>
+<rect width="800" height="300" fill="#f9f7f4"/>
+<rect x="24" y="100" width="220" height="100" rx="10" fill="#fff" stroke="#c2412f" stroke-width="2"/><text font-size="20" fill="#c2412f" font-weight="700"><tspan text-anchor="middle" x="134.0" y="157.0">Harness（龍蝦）</tspan></text>
+<rect x="476" y="70" width="300" height="160" rx="10" fill="#efe9de" stroke="#2f6f73" stroke-width="2"/><text font-size="20" fill="#1a1a1a" font-weight="700"><tspan text-anchor="middle" x="626.0" y="143.0">語言模型：關在沒有書、</tspan><tspan text-anchor="middle" x="626.0" y="171.0">沒有窗的小房間</tspan></text>
+<path d="M244 130 L474 130" stroke="#1a1a1a" stroke-width="3"/><path d="M462 122 L476 130 L462 138" fill="#1a1a1a"/>
+<text x="360" y="116" font-size="18" fill="#1a1a1a" text-anchor="middle" font-weight="400">遞進一張寫了半句話的紙條</text>
+<path d="M476 178 L246 178" stroke="#1a1a1a" stroke-width="3"/><path d="M258 170 L244 178 L258 186" fill="#1a1a1a"/>
+<text x="360" y="210" font-size="18" fill="#1a1a1a" text-anchor="middle" font-weight="400">把紙條寫完，再遞出來</text>
+</svg>
