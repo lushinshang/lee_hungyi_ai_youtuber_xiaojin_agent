@@ -33,4 +33,7 @@
 
 ## 狀態
 
-僅本機完成，未發布、未建立 Git 倉庫、未推送。
+已發布（2026-11-03）：
+- 導讀網頁：https://lushinshang.github.io/lee_hungyi_ai_youtuber_xiaojin_agent/
+- 同步播放器：https://lushinshang.github.io/lee_hungyi_ai_youtuber_xiaojin_agent/player.html
+- Repo：https://github.com/lushinshang/lee_hungyi_ai_youtuber_xiaojin_agent（公開，Pages 由 main 分支根目錄提供）
